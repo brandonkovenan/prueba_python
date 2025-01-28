@@ -1,0 +1,7 @@
+pandas
+requests
+openpyxl
+selenium
+pillow
+xlsxwriter
+webdriver-manager
