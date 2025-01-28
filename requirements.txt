@@ -4,4 +4,7 @@ openpyxl
 selenium
 pillow
 xlsxwriter
+pytest-mock
 webdriver-manager
+pytest
+
